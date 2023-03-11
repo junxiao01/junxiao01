@@ -4,8 +4,8 @@
 
 (Short bio): I am currently a postdoc fellow in the department of electronic and information engineering, the Hong Kong Polytechnic University. My research interests include machine learning (Bayesian and robust machine learning), image/video restoration and quality enhancement, and financial time series analysis. I received my PhD and MSc degree (with distinction) (supervised by [Prof. Kenneth K. M. Lam](http://www.eie.polyu.edu.hk/~enkmlam/)) from the department of electronic and information engineering, the Hong Kong Polytechnic Unversity, in 2022 and 2018, respectively. Before coming to the Hong Kong Polytechnic Unversity, I obtained my BSc degree from the Guangdong University of Technology, supervised by [Prof. Wing-Kuen Ling](https://scholar.google.com/citations?user=OofKJWMAAAAJ&hl=en), in 2016.
 
-[![Jun's github stats](https://github-readme-stats.vercel.app/api?username=Gwan-Siu&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwan-Siu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jun's github stats](https://github-readme-stats.vercel.app/api?username=junxiao01&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junxiao01&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gwan-Siu/Gwan-Siu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
