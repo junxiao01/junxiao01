@@ -1,8 +1,9 @@
 ### Hi there, I'm [Jun Xiao (肖均)!](http://gwansiu.com/about/). 👋
 
-**Note:** I am looking for some industrial positions about image/video analysis, machine learning and its applications in finance. I can work in Hong Kong without any sporsorship.
 
-(Short bio): I am currently a postdoc fellow in the department of electronic and information engineering, the Hong Kong Polytechnic University. My research interests include machine learning (Bayesian and robust machine learning), image/video restoration and quality enhancement, and financial time series analysis. I received my PhD and MSc degree (with distinction) (supervised by [Prof. Kenneth K. M. Lam](http://www.eie.polyu.edu.hk/~enkmlam/)) from the department of electronic and information engineering, the Hong Kong Polytechnic Unversity, in 2022 and 2018, respectively. Before coming to the Hong Kong Polytechnic Unversity, I obtained my BSc degree from the Guangdong University of Technology, supervised by [Prof. Wing-Kuen Ling](https://scholar.google.com/citations?user=OofKJWMAAAAJ&hl=en), in 2016.
+(Short bio): I am currently a postdoc fellow, supervised by Prof. Kin-Man Lam, in the Department of Electrical and Electronic Engineering, at the Hong Kong Polytechnic University.
+
+My research interests include image/video processing, restoration and enhancement (e.g., image/video super-resolution, image/video denoising, high dynamic range imaging, etc.), machine learning (e.g., bayesian machine learning, domain adaptation and generalization, robustness, etc.), deep generative models (e.g., diffusion models and flow matching), and AIGC-related topics.
 
 [![Jun's github stats](https://github-readme-stats.vercel.app/api?username=junxiao01&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junxiao01&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
